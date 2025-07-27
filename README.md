@@ -5,7 +5,7 @@
 [![LocalXpose Website](https://img.shields.io/badge/Website-6023c0?style=for-the-badge&logo=rocket&logoColor=white)](https://localxpose.io?utm_source=github&utm_medium=profile&utm_content=header_badge)
 [![Documentation](https://img.shields.io/badge/Docs-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://localxpose.io/docs?utm_source=github&utm_medium=profile&utm_content=docs_badge)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white)](https://localxpose.io/blog?utm_source=github&utm_medium=profile&utm_content=blog_badge)
-[![Official GitHub Action](https://img.shields.io/badge/Action_\(Official\)-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LocalXpose/localxpose-action)
+[![Official GitHub Action](https://img.shields.io/badge/Action_\(Official\)-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/actions/localxpose-tunnel)
 
 **Expose your localhost to the world 🌍**  
 *Secure tunnels for development, testing, and sharing*
